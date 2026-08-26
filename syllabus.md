@@ -370,9 +370,11 @@ Emergencies sit outside all of this. Serious illness, hospitalization, a death i
 the family: the 4-hour window and the three-absence count don't apply. Tell me
 when you're able and we'll work out a plan for the rest of the term.
 
-Your sprint review is the one commitment that cannot simply be missed. It is the
-assessment. If you are not there, that sprint cannot be assessed as designed, so
-tell me as far ahead as you can and we will find another time.
+Your sprint review and the capstone showcase are the two commitments that
+cannot simply be missed. Neither is reschedulable except in a genuine
+emergency. Missing your own sprint review means that sprint cannot be
+assessed as designed, so tell me as far ahead as you can and we will find
+another time.
 
 ## Use of technology
 
