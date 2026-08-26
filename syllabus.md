@@ -44,6 +44,9 @@ with a grade of C (2.0) or higher.
 
 A project proposal and instructor consent are required.
 
+Note that the Bulletin description quoted above does not list BCOR 3750. The
+prerequisite list here is current and is the one that applies.
+
 ## Course structure
 
 This course is in person, with no fixed class meeting time. Work happens in your
@@ -373,36 +376,82 @@ me. I would rather know early than read about it in a final reflection.
 
 ### Academic honesty
 
-Loyola Marymount University expects academic honesty of all students. The
-University's policy is at https://academics.lmu.edu/honesty/ and applies in full
-to this course.
+Loyola Marymount University is a community dedicated to academic excellence,
+student-centered education, and the Jesuit and Marymount traditions. As such, the
+University expects all members of its community to act with honesty and integrity
+at all times, especially in their academic work. Academic honesty requires that
+all members of the LMU community act with integrity, respect their own
+intellectual and creative work as well as that of others, acknowledge sources
+consistently and completely, act honestly during exams and on assignments, and
+report results accurately. As an LMU Lion, by the Lion's Code, you are pledged to
+join the discourse of the academy with honesty of voice and integrity of
+scholarship.
 
-In a course where AI use is expected and encouraged, honesty means something
-specific: the work you submit must be work you can explain, justify, validate,
-and adapt. Submitting something you cannot account for is a violation regardless
-of what produced it. See "Working with AI" for what that looks like in practice.
+Academic dishonesty will be treated as an extremely serious matter, with serious
+consequences that can range from receiving no credit for assignments/tests to
+expulsion. It is never permissible to turn in any work that has been copied from
+another student or copied from a source (including Internet) without properly
+acknowledging/citing the source. It is never permissible to work on an
+assignment, exam, quiz or any project with another person unless your instructor
+has indicated so in the written instructions/guidelines. It is your
+responsibility to make sure that your work meets the standard of academic honesty
+set forth in the "Academic Honesty Policy" found at:
+https://academics.lmu.edu/honesty/ For an additional resource, see and the "LMU
+Honor Code and Process" found at:
+https://bulletin.lmu.edu/content.php?catoid=1&navoid=18#LMU_Honor_Code_and_Process
 
-Misrepresenting your stakeholder's confirmation, your metrics, or your results is
-a serious violation of this policy.
+#### What this means in this course
 
-### Americans with Disabilities Act, special accommodations
+LMU strongly recommends that instructors give a more detailed statement relative
+to the specific assignments in the course. Here is that statement.
 
-Students with a disability who need accommodations should contact Disability
-Support Services at https://academics.lmu.edu/dss/ as early in the semester as
-possible.
+AI use is expected and encouraged in this course. See "Working with AI" above.
+Honesty here means something specific: the work you submit must be work you can
+explain, justify, validate, and adapt. Submitting something you cannot account
+for is a violation regardless of what produced it, and it will be visible in your
+defense.
 
-Accommodations are arranged through DSS. Once you have documentation, share it
-with me and we will make the arrangements. Sprint reviews and the showcase can
-be accommodated; the earlier I know, the better I can plan them.
+Two things specific to this course are serious violations:
 
-### Tentative nature of this syllabus
+**Misrepresenting your stakeholder.** Claiming confirmation you did not receive,
+or presenting your own summary as your stakeholder's confirmed position.
 
-This syllabus is subject to revision. Sprint scope, dates, and deliverables may
-change as projects develop, which is normal in project-based work.
+**Misrepresenting your results.** Reporting metrics you did not measure, or
+against baselines you changed after the fact without saying so.
 
-Changes will be announced in Brightspace and in your advisor meetings. You are
-responsible for changes announced through those channels. The version in this
-repository is always the current one, and its revision history is visible in git.
+Consequences follow the University policy above, ranging from no credit on the
+affected assessment to more serious outcomes for repeated or severe violations.
+
+### Special accommodations
+
+The DSS Office offers resources to enable students with physical, learning,
+ADD/ADHD, psychiatric disabilities and those on the autism spectrum to achieve
+maximum independence while pursuing their educational goals. Staff specialists
+interact with all areas of the University to eliminate physical and attitudinal
+barriers. Students must provide documentation for their disability from an
+appropriate licensed professional. Services are offered to students who have
+established disabilities under state and federal laws. We also advise students,
+faculty and staff regarding disability issues. Students who need reasonable
+modifications, special assistance, academic accommodations or housing
+accommodations should direct their request to the DSS Office as soon as possible.
+All discussions will remain confidential. The DSS Office is located on the 2nd
+floor of Daum Hall and may be reached by email at dsslmu@lmu.edu or phone at
+(310) 338-4216. Please visit http://www.lmu.edu/dss for additional information.
+
+Sprint reviews and the capstone showcase can be accommodated. The earlier I know,
+the better I can plan them.
+
+### Tentative nature of the syllabus
+
+This syllabus and its contents are subject to revision; students are responsible
+for any changes or modifications announced or distributed in class or posted on
+LMU's course management system.
+
+Sprint scope, dates, and deliverables may change as projects develop, which is
+normal in project-based work. Any revision will be announced through Brightspace
+and in your advisor meetings, the same channels through which this syllabus was
+distributed. The version in this repository is always current, and its revision
+history is visible in git.
 
 ## Classroom conduct and communication
 
@@ -426,20 +475,6 @@ Emergency preparedness information: https://www.lmu.edu/emergency
 ## Before publishing
 
 Remove this section before the syllabus goes to students.
-
-**Confirm credit hours.** This syllabus states 4 credit hours and a 12 hour per
-week workload derived from it. If the capstone is 3 credits, the workload figure
-becomes 9 hours per week.
-
-**Prerequisite discrepancy.** The Bulletin description quoted above does not list
-BCOR 3750, but the prerequisite line does. One of the two is out of date. Confirm
-which and reconcile before publishing.
-
-**Check the policy wording.** LMU's Center for Faculty Development publishes
-suggested language for the Academic Honesty, ADA, and tentative-syllabus
-statements in an appendix to the syllabus checklist. That appendix was not
-available when this was written, so the three statements above were composed
-rather than copied. Check them against the CFD's wording.
 
 **Confirm office hours.** The checklist requires office hours to be stated but
 does not set a minimum. Confirm your department's expectation with your chair.
