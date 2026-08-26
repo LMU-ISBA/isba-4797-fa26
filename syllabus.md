@@ -323,6 +323,25 @@ run heavier than the middle of a sprint.
 All work is submitted through your project repository unless stated otherwise.
 Due dates are announced in Brightspace and confirmed in your advisor meetings.
 
+### Deadlines and late work
+
+Assignments are submitted through your project repository by the posted
+deadline. Deadlines are hard.
+
+Late work loses 10% per day, down to a floor of 50%. A late assignment is worth
+less, but it's never worth nothing, so finish it and turn it in.
+
+If you know you're going to miss a deadline, send me a Teams message before it
+passes. I may move it. That's case by case, and there's no bank of late days to
+spend. If I move a deadline, the new date is the deadline, and the 10% per day
+runs from there.
+
+No message before the deadline means no conversation after it. The 10% per day
+runs from the original date.
+
+Emergencies sit outside this one too. Tell me when you're able and we'll make a
+plan.
+
 Feedback on sprint work comes live at the sprint review, from the instructor and
 from your stakeholder. Written feedback on the Stakeholder Interview and PRD is
 returned within one week of submission.
@@ -332,17 +351,28 @@ rather than after.
 
 ## Attendance and participation
 
-There is no fixed class meeting, so attendance means showing up to what you have
-scheduled: your recurring advisor meetings, your stakeholder meetings, your
-sprint reviews, and the capstone showcase.
+There is no fixed class meeting in this course. Your scheduled commitments are
+your recurring advisor meetings, your stakeholder meetings, your sprint reviews,
+and the capstone showcase.
 
-Sprint reviews and the showcase are not reschedulable except in genuine
-emergencies. Missing your own sprint review means that sprint cannot be assessed
-as designed.
+If you feel ill, stay home. Rest, and keep everyone else healthy.
 
-If illness or an emergency affects your ability to meet a commitment, tell me as
-early as you can. Early notice almost always has a solution; late notice often
-does not.
+When you can't make a scheduled commitment, send me a Teams message. Before the
+commitment is best. Within 4 hours of its start time still counts.
+
+Three notified absences cost you nothing. You don't owe me a reason and I won't
+ask for documentation. What matters is that I know.
+
+After three, each absence costs 2% of your total grade, whether you told me or
+not. An absence you never tell me about costs 2% from the first one.
+
+Emergencies sit outside all of this. Serious illness, hospitalization, a death in
+the family: the 4-hour window and the three-absence count don't apply. Tell me
+when you're able and we'll work out a plan for the rest of the term.
+
+Your sprint review is the one commitment that cannot simply be missed. It is the
+assessment. If you are not there, that sprint cannot be assessed as designed, so
+tell me as far ahead as you can and we will find another time.
 
 ## Use of technology
 
