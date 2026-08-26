@@ -373,8 +373,7 @@ when you're able and we'll work out a plan for the rest of the term.
 Your sprint review and the capstone showcase are the two commitments that
 cannot simply be missed. Neither is reschedulable except in a genuine
 emergency. Missing your own sprint review means that sprint cannot be
-assessed as designed, so tell me as far ahead as you can and we will find
-another time.
+assessed as designed.
 
 ## Use of technology
 
