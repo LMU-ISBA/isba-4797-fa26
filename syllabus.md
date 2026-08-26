@@ -44,9 +44,6 @@ with a grade of C (2.0) or higher.
 
 A project proposal and instructor consent are required.
 
-Note that the Bulletin description quoted above does not list BCOR 3750. The
-prerequisite list here is current and is the one that applies.
-
 ## Course structure
 
 This course is in person, with no fixed class meeting time. Work happens in your
