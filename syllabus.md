@@ -358,7 +358,8 @@ and the capstone showcase.
 If you feel ill, stay home. Rest, and keep everyone else healthy.
 
 When you can't make a scheduled commitment, send me a Teams message. Before the
-commitment is best. Within 4 hours of its start time still counts.
+commitment is best, and as soon as you can if something happens that morning.
+Late still beats silent.
 
 Three notified absences cost you nothing. You don't owe me a reason and I won't
 ask for documentation. What matters is that I know.
@@ -367,7 +368,7 @@ After three, each absence costs 2% of your total grade, whether you told me or
 not. An absence you never tell me about costs 2% from the first one.
 
 Emergencies sit outside all of this. Serious illness, hospitalization, a death in
-the family: the 4-hour window and the three-absence count don't apply. Tell me
+the family: the three-absence count doesn't apply. Tell me
 when you're able and we'll work out a plan for the rest of the term.
 
 Your sprint review and the capstone showcase are the two commitments that
