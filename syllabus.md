@@ -469,12 +469,3 @@ Reporting requirements for sexual or interpersonal misconduct:
 https://studentaffairs.lmu.edu/lmucares/
 
 Emergency preparedness information: https://www.lmu.edu/emergency
-
----
-
-## Before publishing
-
-Remove this section before the syllabus goes to students.
-
-**Confirm office hours.** The checklist requires office hours to be stated but
-does not set a minimum. Confirm your department's expectation with your chair.
