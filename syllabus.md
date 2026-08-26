@@ -1,7 +1,71 @@
 # ISBA 4797-01: Capstone Project
 
-**Fall 2026** | Loyola Marymount University
-Instruction: August 31 - December 11, 2026
+**Loyola Marymount University | Fall 2026**
+
+| | |
+|---|---|
+| Course | ISBA 4797-01, Capstone Project |
+| Credit hours | 4 |
+| Meeting time | No fixed class meeting time. See Meetings below. |
+| Location | Meetings in Hilton 114 or online, by appointment |
+| Instruction | August 31 - December 11, 2026 |
+| Showcase | Wednesday, December 9, 2026 |
+
+## Instructor
+
+| | |
+|---|---|
+| Instructor | Greg Lontok, Clinical Associate Professor |
+| Office | Hilton 114 |
+| Preferred contact | Microsoft Teams message, for the fastest response |
+| Email | gregory.lontok@lmu.edu |
+| Office hours | By appointment. Book at https://calendly.com/greg-lontok |
+
+## Course description
+
+From the LMU Bulletin:
+
+> This course presents a student with a challenge and an opportunity to build a
+> portfolio-worthy project to solve a real business problem by integrating
+> business and technical knowledge and skills. For employers, it represents a
+> clear snapshot of a student's understanding of the subject matter and their
+> ability to identify a meaningful project and exercise initiative. It also
+> presents students with first-hand experience to develop project management,
+> teamwork, and communication skills critical for an IT career. A project
+> proposal and instructor consent are required. Prerequisites: ISBA 3710, and
+> (ISBA 3730 or CMSI 1010), and (ISBA 3720 or 4796), all with a grade of C (2.0)
+> or higher. Credit for ISBA 4796. This course may not be repeated for degree
+> credit.
+
+## Prerequisites
+
+ISBA 3710, BCOR 3750, and (ISBA 3730 or CMSI 1010), and (ISBA 3720 or 4796), all
+with a grade of C (2.0) or higher.
+
+A project proposal and instructor consent are required.
+
+## Course structure
+
+This course is in person, with no fixed class meeting time. Work happens in your
+project team, and you meet with the instructor on a recurring schedule you set
+up yourself. Sprint reviews and the capstone showcase are scheduled sessions.
+
+## Required texts and materials
+
+None. No textbook is required for this course.
+
+You will need the development tools and cloud services your project requires.
+These are determined by your project and set up during weeks 1 and 2.
+
+## Required lab fees
+
+None.
+
+## Instructional methods
+
+Project-based learning. You work on a real problem for a real stakeholder across
+three sprints, with recurring advisor meetings, sprint reviews, live defenses,
+and a final showcase presentation.
 
 ## What this course is for
 
@@ -67,6 +131,16 @@ By the end of this course you will be able to:
 | Sprint 02 | 20 |
 | Sprint 03 | 30 |
 | **Total** | **100** |
+
+### Letter grades
+
+| Grade | Range | | Grade | Range |
+|---|---|---|---|---|
+| A | 93-100 | | C+ | 77-79 |
+| A- | 90-92 | | C | 73-76 |
+| B+ | 87-89 | | C- | 70-72 |
+| B | 83-86 | | D | 60-69 |
+| B- | 80-82 | | F | below 60 |
 
 You are assessed the way I would assess a direct report. Students who earn A's
 are the ones who would be high-performing members of a professional team.
@@ -230,3 +304,142 @@ the artifact is.
 Independent work is not the same as independent thinking. You can use AI
 extensively and demonstrate excellent ownership. You can also work entirely
 alone and demonstrate very little.
+
+## Work load expectations
+
+LMU follows the Carnegie Unit standard: one semester credit hour represents at
+least three hours of student engagement per week. See
+https://academics.lmu.edu/aprc/lmucredithourpolicy/
+
+For this course that is an average of **12 hours per week** across the semester,
+including your project work, stakeholder and advisor meetings, sprint reviews,
+and preparation.
+
+Expect this to be uneven. Weeks 1 and 2 and the weeks around each sprint review
+run heavier than the middle of a sprint.
+
+## Assignments and feedback
+
+All work is submitted through your project repository unless stated otherwise.
+Due dates are announced in Brightspace and confirmed in your advisor meetings.
+
+Feedback on sprint work comes live at the sprint review, from the instructor and
+from your stakeholder. Written feedback on the Stakeholder Interview and PRD is
+returned within one week of submission.
+
+If you are unsure what is expected for a deliverable, ask before the due date
+rather than after.
+
+## Attendance and participation
+
+There is no fixed class meeting, so attendance means showing up to what you have
+scheduled: your recurring advisor meetings, your stakeholder meetings, your
+sprint reviews, and the capstone showcase.
+
+Sprint reviews and the showcase are not reschedulable except in genuine
+emergencies. Missing your own sprint review means that sprint cannot be assessed
+as designed.
+
+If illness or an emergency affects your ability to meet a commitment, tell me as
+early as you can. Early notice almost always has a solution; late notice often
+does not.
+
+## Use of technology
+
+You will use a code editor, version control, an AI coding assistant, and
+whatever cloud services or tools your project requires. These are set up in
+weeks 1 and 2 as part of the Development Environment gate.
+
+See "Working with AI" above for how AI use is expected and assessed in this
+course.
+
+For technology assistance, contact the ITS Service Desk:
+
+- Phone: 310-338-7777 or 213-736-1097
+- Email: servicedesk@lmu.edu
+- Self-service: https://its.lmu.edu/servicedesk
+
+## Student support
+
+- Academic Resource Center: https://academics.lmu.edu/arc/
+- Student Psychological Services: https://studentaffairs.lmu.edu/wellness/studentpsychologicalservices/
+- Disability Support Services: https://academics.lmu.edu/dss/
+- Community of Care: https://studentaffairs.lmu.edu/lmucares/
+
+If something outside this course is affecting your ability to do the work, tell
+me. I would rather know early than read about it in a final reflection.
+
+## University policies
+
+### Academic honesty
+
+Loyola Marymount University expects academic honesty of all students. The
+University's policy is at https://academics.lmu.edu/honesty/ and applies in full
+to this course.
+
+In a course where AI use is expected and encouraged, honesty means something
+specific: the work you submit must be work you can explain, justify, validate,
+and adapt. Submitting something you cannot account for is a violation regardless
+of what produced it. See "Working with AI" for what that looks like in practice.
+
+Misrepresenting your stakeholder's confirmation, your metrics, or your results is
+a serious violation of this policy.
+
+### Americans with Disabilities Act, special accommodations
+
+Students with a disability who need accommodations should contact Disability
+Support Services at https://academics.lmu.edu/dss/ as early in the semester as
+possible.
+
+Accommodations are arranged through DSS. Once you have documentation, share it
+with me and we will make the arrangements. Sprint reviews and the showcase can
+be accommodated; the earlier I know, the better I can plan them.
+
+### Tentative nature of this syllabus
+
+This syllabus is subject to revision. Sprint scope, dates, and deliverables may
+change as projects develop, which is normal in project-based work.
+
+Changes will be announced in Brightspace and in your advisor meetings. You are
+responsible for changes announced through those channels. The version in this
+repository is always the current one, and its revision history is visible in git.
+
+## Classroom conduct and communication
+
+Treat your teammates, your stakeholder, and everyone at the showcase with
+professional respect. You are representing LMU to an outside party for most of
+this semester.
+
+Check your lion.lmu.edu email and Microsoft Teams regularly. Those are the
+channels I use, and you are responsible for what is sent through them.
+
+LMU's expectations for classroom behavior are at
+https://lmu.box.com/s/v2x89uspgbx3l23egcz7mjd6dbekcn60
+
+Reporting requirements for sexual or interpersonal misconduct:
+https://studentaffairs.lmu.edu/lmucares/
+
+Emergency preparedness information: https://www.lmu.edu/emergency
+
+---
+
+## Before publishing
+
+Remove this section before the syllabus goes to students.
+
+**Confirm credit hours.** This syllabus states 4 credit hours and a 12 hour per
+week workload derived from it. If the capstone is 3 credits, the workload figure
+becomes 9 hours per week.
+
+**Prerequisite discrepancy.** The Bulletin description quoted above does not list
+BCOR 3750, but the prerequisite line does. One of the two is out of date. Confirm
+which and reconcile before publishing.
+
+**Check the policy wording.** LMU's Center for Faculty Development publishes
+suggested language for the Academic Honesty, ADA, and tentative-syllabus
+statements in an appendix to the syllabus checklist. That appendix was not
+available when this was written, so the three statements above were composed
+rather than copied. Check them against the CFD's wording.
+
+**Confirm office hours.** The checklist requires office hours to be stated but
+does not set a minimum. Confirm your department's expectation with your chair.
