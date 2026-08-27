@@ -24,3 +24,9 @@ instructor at https://calendly.com/greg-lontok/45min
 
     syllabus.md    Course syllabus
     README.md      This file
+
+## Assessments
+
+| | Due |
+|---|---|
+| [Stakeholder Interview](assessments/stakeholder-interview.md) | Statement and confirmation Wed Sep 9, explain-back Thu Sep 10 or Fri Sep 11 |

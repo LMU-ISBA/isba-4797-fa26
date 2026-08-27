@@ -157,18 +157,29 @@ What is graded is your stakeholder's confirmation, not your summary of the
 meeting.
 
 You will produce a short problem statement with success criteria, and obtain
-your stakeholder's written confirmation that it is accurate.
+your stakeholder's written confirmation that it is accurate. Then you will tell
+me the problem out loud, without notes.
 
 Graded on:
 
-- Your stakeholder confirmed the problem statement is accurate.
-- The statement is specific rather than generic.
+- Your stakeholder confirmed the problem statement is accurate. **3 points, all
+  or nothing.**
+- The statement is specific rather than generic. **2 points.**
 - Evidence of the research you did before the meeting, and how it shaped what
-  you asked.
+  you asked. **2 points.**
+- The explain-back: a 10-minute meeting in week 2 where you describe your
+  stakeholder's problem from memory and answer follow-up questions. **3
+  points.**
 
 Use AI to record and summarize the meeting. That is a good use of it. Getting
-the confirmation, and showing up prepared enough to make the meeting worth your
-stakeholder's time, are yours.
+the confirmation, showing up prepared enough to make the meeting worth your
+stakeholder's time, and being able to explain the problem without reading it
+back to me, are yours.
+
+**Statement and confirmation are due Wed Sep 9.** The explain-back is Thu Sep 10
+or Fri Sep 11, booked. Full instructions, including what a specific problem
+statement looks like and what the explain-back asks for, are in
+[`assessments/stakeholder-interview.md`](assessments/stakeholder-interview.md).
 
 ### Product Requirements Document
 
