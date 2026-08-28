@@ -121,16 +121,18 @@ By the end of this course you will be able to:
 
 ## Grading
 
-| Assessment | Weight |
-|---|---|
-| Stakeholder Interview | 10 |
-| Development Environment | 5 |
-| AI Dev Workflow Tutorial | 5 |
-| Product Requirements Document | 15 |
-| Sprint 01 | 15 |
-| Sprint 02 | 20 |
-| Sprint 03 | 30 |
-| **Total** | **100** |
+A 1000-point scheme. Every point is a tenth of a percent.
+
+| Assessment | Points | % |
+|---|---:|---:|
+| Stakeholder Interview | 100 | 10.0 |
+| Development Environment | 50 | 5.0 |
+| AI Dev Workflow Tutorial | 50 | 5.0 |
+| Product Requirements Document | 150 | 15.0 |
+| Sprint 01 | 150 | 15.0 |
+| Sprint 02 | 200 | 20.0 |
+| Sprint 03 | 300 | 30.0 |
+| **Total** | **1000** | **100** |
 
 ### Letter grades
 
@@ -147,7 +149,7 @@ are the ones who would be high-performing members of a professional team.
 
 ### Development Environment and AI Dev Workflow Tutorial
 
-5 points each, graded all or nothing. Either your environment works or it does
+50 points each, graded all or nothing. Either your environment works or it does
 not, and there is no partial credit on a prerequisite. Both must be complete
 before Sprint 01 begins.
 
@@ -172,13 +174,13 @@ me the problem out loud, without notes.
 
 Graded on:
 
-- Your stakeholder confirmed the problem statement is accurate. **3 points, all
+- Your stakeholder confirmed the problem statement is accurate. **30 points, all
   or nothing.**
-- The statement is specific rather than generic. **2 points.**
+- The statement is specific rather than generic. **20 points.**
 - Evidence of the research you did before the meeting, and how it shaped what
-  you asked. **2 points.**
+  you asked. **20 points.**
 - The explain-back: a 10-minute meeting in week 2 where you describe your
-  stakeholder's problem from memory and answer follow-up questions. **3
+  stakeholder's problem from memory and answer follow-up questions. **30
   points.**
 
 Use AI to record and summarize the meeting. That is a good use of it. Getting
@@ -195,7 +197,7 @@ statement looks like and what the explain-back asks for, are in
 
 Your PRD defines the success metrics, KPIs, and thresholds for your project.
 These are the criteria everything downstream is measured against, which is why
-this document carries 15 points.
+this document carries 150 points.
 
 Your stakeholder confirms in writing that the metrics and thresholds are right.
 

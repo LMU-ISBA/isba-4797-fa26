@@ -1,7 +1,7 @@
 # Stakeholder Interview
 
 **Due** Wed Sep 9, statement and confirmation · **Explain-back** Thu Sep 10 or
-Fri Sep 11, booked · **10 points** · Weeks 1 and 2
+Fri Sep 11, booked · **100 points** · Weeks 1 and 2
 
 ## What this is for
 
@@ -74,11 +74,11 @@ this a lot in this course, and this is the low-stakes version.
 
 | | Points | |
 |---|---|---|
-| Your stakeholder confirmed the statement is accurate | 3 | All or nothing. You have the confirmation or you do not |
-| The statement is specific rather than generic | 2 | |
-| Evidence of research before the meeting, and how it shaped what you asked | 2 | |
-| The explain-back | 3 | |
-| **Total** | **10** | |
+| Your stakeholder confirmed the statement is accurate | 30 | All or nothing. You have the confirmation or you do not |
+| The statement is specific rather than generic | 20 | |
+| Evidence of research before the meeting, and how it shaped what you asked | 20 | |
+| The explain-back | 30 | |
+| **Total** | **100** | |
 
 ### What specific means
 
