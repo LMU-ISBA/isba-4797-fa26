@@ -155,6 +155,12 @@ The tutorial is at
 [LMU-ISBA/ai-dev-workflow-tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial). Work through
 both parts.
 
+Both are due Friday, September 11, at the end of week 2, because Sprint 01
+begins Monday, September 14. The tutorial's Section 7 lists what to have ready
+and leaves the rest to your course. Here that is your project repository: your
+repository link, your live dashboard link, and your finished `TASKS.md`. Budget
+about four hours across the two parts, and start in week 1.
+
 ### Stakeholder Interview
 
 What is graded is your stakeholder's confirmation, not your summary of the
