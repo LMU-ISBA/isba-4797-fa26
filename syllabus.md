@@ -148,8 +148,12 @@ are the ones who would be high-performing members of a professional team.
 ### Development Environment and AI Dev Workflow Tutorial
 
 5 points each, graded all or nothing. Either your environment works or it does
-not; there is no partial credit on a prerequisite. Both must be complete before
-Sprint 01 begins.
+not, and there is no partial credit on a prerequisite. Both must be complete
+before Sprint 01 begins.
+
+The tutorial is at
+[LMU-ISBA/ai-dev-workflow-tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial). Work through
+both parts.
 
 ### Stakeholder Interview
 
