@@ -23,19 +23,13 @@
 
 ## Course description
 
-From the LMU Bulletin:
-
-> This course presents a student with a challenge and an opportunity to build a
-> portfolio-worthy project to solve a real business problem by integrating
-> business and technical knowledge and skills. For employers, it represents a
-> clear snapshot of a student's understanding of the subject matter and their
-> ability to identify a meaningful project and exercise initiative. It also
-> presents students with first-hand experience to develop project management,
-> teamwork, and communication skills critical for an IT career. A project
-> proposal and instructor consent are required. Prerequisites: ISBA 3710, and
-> (ISBA 3730 or CMSI 1010), and (ISBA 3720 or 4796), all with a grade of C (2.0)
-> or higher. Credit for ISBA 4796. This course may not be repeated for degree
-> credit.
+This course presents a student with a challenge and an opportunity to build a
+portfolio-worthy project to solve a real business problem by integrating
+business and technical knowledge and skills. For employers, it represents a
+clear snapshot of a student's understanding of the subject matter and their
+ability to identify a meaningful project and exercise initiative. It also
+presents students with first-hand experience to develop project management,
+teamwork, and communication skills critical for an IT career.
 
 ## Prerequisites
 
@@ -44,53 +38,50 @@ with a grade of C (2.0) or higher.
 
 A project proposal and instructor consent are required.
 
+This course carries credit for ISBA 4796 and may not be repeated for degree
+credit.
+
 ## Course structure
 
 This course is in person, with no fixed class meeting time. Work happens in your
-project team, and you meet with the instructor on a recurring schedule you set
+project team, and you meet with me on a recurring schedule you set
 up yourself. Sprint reviews and the capstone showcase are scheduled sessions.
 
 ## Required texts and materials
 
-None. No textbook is required for this course.
-
-You will need the development tools and cloud services your project requires.
-These are determined by your project and set up during weeks 1 and 2.
+There is no textbook and nothing to buy. The tools your project needs are listed
+under Use of technology.
 
 ## Required lab fees
 
-None.
+There are no lab fees for this course.
 
 ## Instructional methods
 
-Project-based learning. You work on a real problem for a real stakeholder across
-three sprints, with recurring advisor meetings, sprint reviews, live defenses,
-and a final showcase presentation.
+The course is project-based. You work on a real problem for a real stakeholder
+across three sprints, with recurring advisor meetings, sprint reviews, and a
+final showcase presentation.
 
 ## What this course is for
 
 You will work on a real problem for a real stakeholder, deliver something that
-actually creates value, and be able to explain how you got there.
+creates value, and be able to explain how you got there.
 
-The point is not to produce a polished artifact. It is to leave this course able
+The point isn't to produce a polished artifact. It is to leave this course able
 to describe a challenge you took on, the decisions you made, what you tried that
-did not work, and what you delivered in the end. Those are the stories you will
+didn't work, and what you delivered in the end. Those are the stories you will
 tell in interviews and on the job.
 
-This is the capstone to your degree. It is where what you have learned gets
-applied to a problem nobody handed you a solution for.
+This is the capstone to your degree. It's where what you've learned gets applied
+to a problem nobody handed you a solution for.
 
 ## What you own
 
-You will use AI throughout this course, and heavily. That is expected and
-encouraged.
+You will use AI in this course, and heavily. What remains yours, regardless of
+how much the AI does with you, is the outcome. You work with your stakeholder to
+understand what they need, and you deliver something that gives them value.
 
-What remains yours regardless of how much the AI does with you:
-
-**You own the outcome.** Working with your stakeholder to understand what they
-need, and delivering something that gives them value.
-
-Concretely, by the end of this course you should be able to:
+In practice, you should be able to:
 
 - Explain not just the steps you took but the decisions you made, including the
   trade-offs.
@@ -102,7 +93,7 @@ Concretely, by the end of this course you should be able to:
   defined at the start.
 
 A student who can do these things owns their outcome. A student who submits a
-working project but cannot do them does not.
+working project but can't do them doesn't.
 
 ## Learning outcomes
 
@@ -116,22 +107,21 @@ By the end of this course you will be able to:
 5. Pivot under constraints. Pursue an approach, recognize when it will not work,
    backtrack, and carry forward what the abandoned path taught you.
 6. Measure success. Define success metrics, KPIs, and thresholds during
-   requirements gathering; track them; and report what you built against those
-   baselines.
+   requirements gathering, track them through the semester, and report what you
+   built against those baselines.
 
 ## Grading
 
-A 1000-point scheme. Every point is a tenth of a percent.
+Grades run on a 1000-point scheme, where every point is a tenth of a percent.
 
 | Assessment | Points | % |
 |---|---:|---:|
 | Stakeholder Interview | 100 | 10.0 |
 | Development Environment | 50 | 5.0 |
-| AI Dev Workflow Tutorial | 50 | 5.0 |
 | Product Requirements Document | 150 | 15.0 |
 | Sprint 01 | 150 | 15.0 |
 | Sprint 02 | 200 | 20.0 |
-| Sprint 03 | 300 | 30.0 |
+| Sprint 03 | 350 | 35.0 |
 | **Total** | **1000** | **100** |
 
 ### Letter grades
@@ -147,21 +137,14 @@ A 1000-point scheme. Every point is a tenth of a percent.
 You are assessed the way I would assess a direct report. Students who earn A's
 are the ones who would be high-performing members of a professional team.
 
-### Development Environment and AI Dev Workflow Tutorial
+### Development Environment
 
-50 points each, graded all or nothing. Either your environment works or it does
-not, and there is no partial credit on a prerequisite. Both must be complete
-before Sprint 01 begins.
+This gate is worth 50 points, graded all or nothing. Either your environment
+works or it doesn't, and there's no partial credit on a prerequisite.
 
-The tutorial is at
-[LMU-ISBA/ai-dev-workflow-tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial). Work through
-both parts.
-
-Both are due Friday, September 11, at the end of week 2, because Sprint 01
-begins Monday, September 14. The tutorial's Section 7 lists what to have ready
-and leaves the rest to your course. Here that is your project repository: your
-repository link, your live dashboard link, and your finished `TASKS.md`. Budget
-about four hours across the two parts, and start in week 1.
+Set it up in week 1 and submit your project repository link by Friday,
+September 11. That is the end of week 2, and Sprint 01 begins Monday,
+September 14.
 
 ### Stakeholder Interview
 
@@ -183,21 +166,21 @@ Graded on:
   stakeholder's problem from memory and answer follow-up questions. **30
   points.**
 
-Use AI to record and summarize the meeting. That is a good use of it. Getting
+Use AI to record and summarize the meeting, which is a good use of it. Getting
 the confirmation, showing up prepared enough to make the meeting worth your
 stakeholder's time, and being able to explain the problem without reading it
 back to me, are yours.
 
-**Statement and confirmation are due Wed Sep 9.** The explain-back is Thu Sep 10
-or Fri Sep 11, booked. Full instructions, including what a specific problem
+**Statement and confirmation are due Wed Sep 9.** You book the explain-back for
+Thu Sep 10 or Fri Sep 11. Full instructions, including what a specific problem
 statement looks like and what the explain-back asks for, are in
-[`assessments/stakeholder-interview.md`](assessments/stakeholder-interview.md).
+assessments/stakeholder-interview.md.
 
 ### Product Requirements Document
 
 Your PRD defines the success metrics, KPIs, and thresholds for your project.
 These are the criteria everything downstream is measured against, which is why
-this document carries 150 points.
+the document is worth 150 points.
 
 Your stakeholder confirms in writing that the metrics and thresholds are right.
 
@@ -216,7 +199,7 @@ Each sprint you ship something that can be demoed, your stakeholder gives
 feedback on it, and that feedback informs the next sprint.
 
 At every sprint review you report your metrics against the baselines you set in
-the PRD. Not only at the end. Every sprint.
+the PRD, not only at the end.
 
 Each sprint review includes a defense. You explain your decisions and
 trade-offs, what you considered, what you pursued and abandoned, and what your
@@ -236,16 +219,16 @@ something at stake in it.
 
 | Weeks | Dates | |
 |---|---|---|
-| 1-2 | Aug 31 - Sep 11 | Setup, gates, stakeholder interview |
+| 1-2 | Aug 31 - Sep 11 | Setup, development environment, stakeholder interview |
 | 3-6 | Sep 14 - Oct 9 | **Sprint 01** (PRD and PRD defense at review) |
 | 7-10 | Oct 12 - Nov 6 | **Sprint 02** |
 | 11-14 | Nov 9 - Dec 4 | **Sprint 03** |
 | 15 | Dec 9 | **Capstone showcase** |
 
-No class on Labor Day (Mon Sep 7), Autumn Day (Fri Oct 9), or Thanksgiving
+No meetings on Labor Day (Mon Sep 7), Autumn Day (Fri Oct 9), or Thanksgiving
 (Wed Nov 25 - Fri Nov 27).
 
-Note that Thanksgiving falls in the third week of Sprint 03. Plan for it.
+Thanksgiving falls in the third week of Sprint 03. Plan for it.
 
 ### Key dates
 
@@ -254,22 +237,20 @@ Note that Thanksgiving falls in the third week of Sprint 03. Plan for it.
 | Add/drop without a W | Fri Sep 4 |
 | Last day to withdraw | Fri Nov 13 |
 | Capstone showcase | Wed Dec 9 |
-| Instruction ends | Fri Dec 11 |
 
 ## Meetings
 
-There is no fixed class meeting time. You schedule recurring meetings with me
-based on your team, at:
+You schedule recurring meetings with me based on your team, at:
 
 https://calendly.com/greg-lontok/45min
 
-Set these up in week 1. Do not wait until you need something.
+Set these up in week 1. Don't wait until you need something.
 
 ## When your project stalls
 
 Sometimes a project fails for reasons that have nothing to do with you. Your
-stakeholder goes quiet. Data you were promised never arrives. The scope
-collapses.
+stakeholder goes quiet, the data you were promised never arrives, or the scope
+gets cut.
 
 If that happens:
 
@@ -277,56 +258,55 @@ If that happens:
 2. Bring it to me, and we agree a revised scope.
 3. You are graded against the revised baseline, not the original one.
 
-This is not a penalty and it is not a failure. Recognizing that an approach has
+This isn't a penalty and it isn't a failure. Recognizing that an approach has
 stopped working, and redirecting, is outcome 5. Documenting it is evidence, not
 an excuse.
 
-What does not work is going quiet yourself and presenting the problem for the
+What doesn't work is going quiet yourself and presenting the problem for the
 first time at your Sprint 03 review.
 
 ## Reflection
 
-Each sprint retrospective includes reflection. Not a status report: what you
-assumed going in, what surprised you, and what you would do differently.
+Each sprint retrospective includes reflection, which is not a status report.
+Write what you assumed going in, what surprised you, and what you would do
+differently.
 
 This is graded on specificity and honesty, not on polish. "The API was harder
 than expected" is not reflection. "I assumed the stakeholder's data was clean
 because the sample was, and I lost a week to that" is.
 
 Reflection is separate from your defense. The defense is where you show what you
-own. Reflection is where you work out what you have learned.
+own, and reflection is where you work out what you have learned.
 
 ## Working with AI
 
-Use AI. Use it for everything it is good at: brainstorming, drafting, writing
-code, debugging, recording and summarizing meetings, critiquing your own work,
-and preparing for stakeholder conversations.
+Use AI for everything it's good at: brainstorming, drafting, writing code,
+debugging, recording and summarizing meetings, critiquing your own work, and
+preparing for stakeholder conversations.
 
-There is no restriction on how much you use it. There is no requirement to
-disclose every prompt.
+There is no restriction on how much you use it, and no requirement to disclose
+every prompt.
 
-What matters is what remains yours:
+What matters is what remains yours.
 
-**You confirm things with humans.** AI can summarize your stakeholder meeting.
-Only your stakeholder can confirm the summary is right.
+You confirm things with humans. AI can summarize your stakeholder meeting, but
+only your stakeholder can confirm the summary is right.
 
-**You defend your decisions.** At every sprint review you explain why you did
-what you did, what you considered, and what you rejected. If AI made a
-recommendation you accepted, you should be able to say why it was right. If you
-rejected one, say why.
+You defend your decisions. If AI made a recommendation you accepted, you should
+be able to say why it was right, and if you rejected one, say why.
 
-**You validate your own work.** Metrics against baseline, evidence it works, and
-an honest account of what you have not verified.
+You validate your own work. That means metrics against baseline, evidence it
+works, and an honest account of what you haven't verified.
 
-**You own what you ship.** Including its limitations and what you would do next.
+You own what you ship, including its limitations and what you would do next.
 
-If you cannot explain, justify, validate, or adapt something you submitted, you
-do not own it, and that will be visible in your defense regardless of how good
+If you can't explain, justify, validate, or adapt something you submitted, you
+don't own it, and that will be visible in your defense regardless of how good
 the artifact is.
 
 Independent work is not the same as independent thinking. You can use AI
-extensively and demonstrate excellent ownership. You can also work entirely
-alone and demonstrate very little.
+extensively and demonstrate excellent ownership, or work entirely alone and
+demonstrate very little.
 
 ## Work load expectations
 
@@ -348,8 +328,7 @@ Due dates are announced in Brightspace and confirmed in your advisor meetings.
 
 ### Deadlines and late work
 
-Assignments are submitted through your project repository by the posted
-deadline. Deadlines are hard.
+Deadlines are hard.
 
 Late work loses 10% per day, down to a floor of 50%. A late assignment is worth
 less, but it's never worth nothing, so finish it and turn it in.
@@ -359,8 +338,8 @@ passes. I may move it. That's case by case, and there's no bank of late days to
 spend. If I move a deadline, the new date is the deadline, and the 10% per day
 runs from there.
 
-No message before the deadline means no conversation after it. The 10% per day
-runs from the original date.
+No message before the deadline means no conversation after it, and the 10% per
+day runs from the original date.
 
 Some assignments are delivered in person at a fixed time. Everything above
 applies to them, and the meeting time is the deadline. If this syllabus says an
@@ -369,18 +348,17 @@ event can't be rescheduled, missing it scores zero.
 Emergencies sit outside this one too. Tell me when you're able and we'll make a
 plan.
 
-Feedback on sprint work comes live at the sprint review, from the instructor and
-from your stakeholder. Written feedback on the Stakeholder Interview and PRD is
+Feedback on sprint work comes live at the sprint review, from me and from your
+stakeholder. Written feedback on the Stakeholder Interview and PRD is
 returned within one week of submission.
 
-If you are unsure what is expected for a deliverable, ask before the due date
+If you're unsure what's expected for a deliverable, ask before the due date
 rather than after.
 
 ## Attendance and participation
 
-There is no fixed class meeting in this course. Your scheduled commitments are
-your recurring advisor meetings, your stakeholder meetings, your sprint reviews,
-and the capstone showcase.
+Your scheduled commitments are your recurring advisor meetings, your stakeholder
+meetings, your sprint reviews, and the capstone showcase.
 
 If you feel ill, stay home. Rest, and keep everyone else healthy.
 
@@ -408,9 +386,9 @@ costs you twice. The absence counts here like any other, and what happens to the
 grade is in the assignment submission policy, because those points are for the
 work rather than for showing up.
 
-Emergencies sit outside all of this. Serious illness, hospitalization, a death in
-the family: the three-absence count doesn't apply. Tell me
-when you're able and we'll work out a plan for the rest of the term.
+Emergencies sit outside all of this. For serious illness, hospitalization, or a
+death in the family, the three-absence count doesn't apply. Tell me when you're
+able and we'll work out a plan for the rest of the term.
 
 Your sprint review and the capstone showcase are the two commitments that cannot
 simply be missed. Neither is reschedulable except in a genuine emergency, and
@@ -424,8 +402,7 @@ You will use a code editor, version control, an AI coding assistant, and
 whatever cloud services or tools your project requires. These are set up in
 weeks 1 and 2 as part of the Development Environment gate.
 
-See "Working with AI" above for how AI use is expected and assessed in this
-course.
+See "Working with AI" for how AI use is expected and assessed.
 
 For technology assistance, contact the ITS Service Desk:
 
@@ -467,28 +444,26 @@ assignment, exam, quiz or any project with another person unless your instructor
 has indicated so in the written instructions/guidelines. It is your
 responsibility to make sure that your work meets the standard of academic honesty
 set forth in the "Academic Honesty Policy" found at:
-https://academics.lmu.edu/honesty/ For an additional resource, see and the "LMU
+https://academics.lmu.edu/honesty/ For an additional resource, see the "LMU
 Honor Code and Process" found at:
 https://bulletin.lmu.edu/content.php?catoid=1&navoid=18#LMU_Honor_Code_and_Process
 
 #### What this means in this course
 
-LMU strongly recommends that instructors give a more detailed statement relative
-to the specific assignments in the course. Here is that statement.
-
-AI use is expected and encouraged in this course. See "Working with AI" above.
-Honesty here means something specific: the work you submit must be work you can
+AI use is expected and encouraged here, as described under "Working with AI."
+Honesty means something specific: the work you submit must be work you can
 explain, justify, validate, and adapt. Submitting something you cannot account
-for is a violation regardless of what produced it, and it will be visible in your
-defense.
+for is a violation regardless of what produced it.
 
-Two things specific to this course are serious violations:
+Two things specific to this course are serious violations.
 
-**Misrepresenting your stakeholder.** Claiming confirmation you did not receive,
-or presenting your own summary as your stakeholder's confirmed position.
+Misrepresenting your stakeholder is one. That means claiming confirmation you
+didn't receive, or presenting your own summary as your stakeholder's confirmed
+position.
 
-**Misrepresenting your results.** Reporting metrics you did not measure, or
-against baselines you changed after the fact without saying so.
+Misrepresenting your results is the other. That means reporting metrics you
+didn't measure, or reporting against baselines you changed after the fact
+without saying so.
 
 Consequences follow the University policy above, ranging from no credit on the
 affected assessment to more serious outcomes for repeated or severe violations.
