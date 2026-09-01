@@ -515,3 +515,10 @@ Reporting requirements for sexual or interpersonal misconduct:
 https://studentaffairs.lmu.edu/lmucares/
 
 Emergency preparedness information: https://www.lmu.edu/emergency
+
+## College of Business Administration mission
+
+We advance knowledge and develop business leaders with moral courage and
+creative confidence to be a force for good in the global community.
+
+https://cba.lmu.edu/about/mission/
